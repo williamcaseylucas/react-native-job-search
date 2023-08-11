@@ -21,4 +21,9 @@ npx create-expo-app -e with-router
 * Will use Expo to build React Native app
 
 * Creating App
-    *  npx create-expo-app@latest -e with-router
+    * npx create-expo-app@latest -e with-router
+    * npm install expo-font axios react-native-dotenv
+    * npm start to run
+    * npm install -g expo-cli (if phone not working)
+    * expo-cli start --tunnel (not recommened)
+    * npx expo start --tunnel  (recommended)
